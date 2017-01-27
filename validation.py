@@ -17,7 +17,7 @@ def check_integer(a):
             break
         else:
             answer = True
-    return answer
+        return answer
 
 
 def check_base(a, b):
